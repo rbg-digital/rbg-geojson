@@ -26054,7 +26054,7 @@
         "CARCLUB_PERMIT_12_MTHS": "£150",
         "SECOND_RESIDENT_PERMIT_12MTHS": "£216"
       },
-      "ge a weekometry": {
+      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
